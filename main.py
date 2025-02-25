@@ -4,8 +4,6 @@ visitor_name = input("What is your name?")
 age = int( input("What is your age?"))
 height = int( input("What is your height (in inches)?"))
 
-
-
 #If the visitor is over 13 and over 60 inches, they can ride all rides
 if age >= 13 and height >= 60: 
      print(f'''
@@ -27,7 +25,6 @@ if age >= 13 and height >= 60:
     - Drop Tower
     - Loop Coaster
      ''')
-
 
 #If the visitor is between 8 and 12 and at least 48 inches tall, they can ride kids rides and family rides
 elif age >= 8 and height >= 48: 
