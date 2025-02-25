@@ -34,3 +34,5 @@ Program Flow
 Collect visitor information
 Check eligibility for each category
 Display personalized message with available rides
+
+<img width="781" alt="ride_checker_output" src="https://github.com/user-attachments/assets/d49c0d8e-20f3-4fd9-9eeb-14fdbfd00421" />
